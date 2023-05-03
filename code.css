@@ -1,0 +1,38 @@
+.btn-home {
+    color: #fff;
+    background-color: #18588f;
+    border-color: none;
+    margin-bottom: 0px;
+    
+}
+
+.content1{
+    font-size: 60px;
+    color: white;
+    margin-bottom: 12px;
+}
+
+.home {
+    margin-right: none;
+    margin-left: none;
+    background-color: #10162f;
+    border: none;
+}
+
+
+.navbar-home{
+    background-color: white;
+    border-color: none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.Box{
+    margin-bottom: 2rem;
+    width: 64px;
+}
+
+.gif {
+    margin-top: 30px;
+}
+
